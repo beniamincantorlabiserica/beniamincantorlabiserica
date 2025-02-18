@@ -1,7 +1,7 @@
 <div align="center">
   
 # Full Stack Developer 🚀
-### Crafting digital experiences with .NET and modern web technologies
+### Crafting digital experiences with SvelteKit and ReactJS
 
 </div>
 
@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning"/>
 </div>
 
-## 💡 Looking for Help With
-
-- 📈 Scaling AI applications
-- 🔧 Building robust machine learning pipelines
-- 📝 Creating engaging technical content
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -47,6 +41,6 @@
 <div align="center">
   
 ### ⚡ Fun Fact
-*I'm building an AI startup while sharing my journey through my blog! 🚀*
+*Update when getting a fun fact 🚀*
 
 </div>
