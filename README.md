@@ -1,7 +1,11 @@
 <div align="center">
   
 # Full Stack Developer 🚀
+
 ### Crafting digital experiences with SvelteKit and ReactJS
+
+[![Personal Website](https://img.shields.io/badge/Website-beniamin.io-4CAF50?style=for-the-badge&logo=firefox&logoColor=white)](https://beniamin.io)
+[![Latest Project](https://img.shields.io/badge/Latest_Project-NoDispute.eu-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://nodispute.eu)
 
 </div>
 
@@ -17,11 +21,21 @@
   <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=llama&logoColor=white" alt="Ollama"/>
 </div>
 
-## 🔭 Current Projects
+## 💼 Featured Projects
 
-- 🤖 Building an exciting AI startup
-- ✍️ Launching my technical blog
-- 🔄 Exploring the intersection of AI and web development
+<div align="center">
+
+[![NoDispute.eu](https://img.shields.io/badge/NoDispute.eu-Revolutionizing_Dispute_Resolution-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white)](https://nodispute.eu)
+  
+*A modern platform for efficient dispute resolution*
+
+</div>
+
+## 🔭 What I'm Up To
+
+- 🤖 Building innovative solutions at the intersection of AI and web development
+- ✍️ Sharing insights and experiences on [beniamin.io](https://beniamin.io)
+- 🔄 Exploring new technologies and pushing boundaries
 
 ## 🌱 Learning & Growing
 
@@ -36,11 +50,14 @@
   <a href="[Your LinkedIn URL]">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://beniamin.io">
+    <img src="https://img.shields.io/badge/Portfolio-beniamin.io-4CAF50?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal Website"/>
+  </a>
 </div>
 
 <div align="center">
   
 ### ⚡ Fun Fact
-*Update when getting a fun fact 🚀*
+*Building the future of dispute resolution, one line of code at a time! 🚀*
 
 </div>
